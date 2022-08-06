@@ -1,5 +1,5 @@
 # crud-firebase
-
+![](https://github.com/zacelo/Crud-Vue2-Firebase-RealTime-Storage/raw/main/src/assets/imagenesReadme/crud.jpg)
 ## Project setup
 ```
 npm install
@@ -15,5 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Crear archivo firebase.js en carpeta src con los datos de conección
+![](https://github.com/zacelo/Crud-Vue2-Firebase-RealTime-Storage/raw/main/src/assets/imagenesReadme/firebase.jpg)
+
